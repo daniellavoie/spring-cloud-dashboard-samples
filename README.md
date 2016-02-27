@@ -8,7 +8,8 @@ main method, or use "mvn spring-boot:run"). It will start up on port
 
 ## Projects
 
-| Path             | Description                            |
-|------------------|----------------------------------------|
-| eureka           | Dashboard with Eureka registry         |
-| eureka-remote    | Dashboard with Remote Eureka registry  |
+| Path                | Description                            |
+|---------------------|----------------------------------------|
+| eureka              | Dashboard with Eureka registry         |
+| eureka-remote       | Dashboard with Remote Eureka registry  |
+| eureka-custom-style | Dashboard with Custom CSS              |
